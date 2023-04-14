@@ -4,3 +4,6 @@ git add .
 git commit -m "Message de commit"
 git push
 
+Ajout commande pull :
+
+git pull
